@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Allan😁<br>Computer science student at GIMPA</br><br>And i hold a certificate is software development</br><br>I am a frontend developer</br><br>And i work on various projects and upload them on Github</br><br>
+Hi, I'm Allan😁<br>Computer science student at GIMPA</br><br>And i hold a certificate in software development</br><br>I am a frontend developer</br><br>And i work on various projects and upload them on Github</br><br>
 
 
 ## 🌐 Socials:
